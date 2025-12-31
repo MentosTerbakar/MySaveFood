@@ -61,7 +61,7 @@ This project aligns with the **Social Welfare & NGO** and **Productivity/Utiliti
 * **Ethical Usage:** The reporting system actively prevents abuse, ensuring the platform is used solely for genuine charitable purposes.
 
 ## g) Proposed UI Mock-up
-![Login Screen Mockup](INSERT_IMAGE_LINK_HERE)
+![Login Screen Mockup]<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/R0JluPEkVx2YHKxbZxwK7W/MySaveFood?node-id=2-8&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A8&embed-host=share" allowfullscreen></iframe>
 ![Home Screen Mockup](INSERT_IMAGE_LINK_HERE)
 ![Post Item Mockup](INSERT_IMAGE_LINK_HERE)
 
